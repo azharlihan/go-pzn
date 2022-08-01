@@ -10,4 +10,21 @@ func main() {
 
 	name = "Eko Khannedy"
 	fmt.Println(name)
+
+	var friendName = "Budi"
+	fmt.Println(friendName)
+	
+	var age int8 = 30
+	fmt.Println(age)
+
+	country := "Indonesia"
+	fmt.Println(country)
+
+	var (
+		firstName = "Eko"
+		lastName = "Khannedy"
+	)
+
+	fmt.Println(firstName)
+	fmt.Println(lastName)
 }
